@@ -23,7 +23,7 @@
 <img src="https://github.com/prathamrana/Flixster2/blob/master/Flixster2.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
-
+Describe any challenges encountered while building the app.
 - [x] Landscape mode is glitchy because of the andrioid emulator being used and because of Mac OS Big Sur, even with auto-rotate enabled
 
 ## Open-source libraries used
